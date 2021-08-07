@@ -20,7 +20,7 @@ while(s<=e){
 }
 
 int main() {
- int n ;
+ int n;
  cin>>n;
 
  int arr[n];
