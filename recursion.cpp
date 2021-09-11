@@ -16,3 +16,4 @@ cin>>n;
 cout<<fac(n);
     return 0;
 }
+
